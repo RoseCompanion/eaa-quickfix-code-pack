@@ -2,7 +2,7 @@
 
 ![EAA Quick-Fix Code Pack](images/cover.png)
 
-Copy-paste fixes for the accessibility failures that show up most on real shop websites. This free lite version has the colour-contrast tool and palette plus three of the eleven patterns. The full pack (11 patterns, 4 scripts, 52 automated checks) is here: **https://croucamp.gumroad.com/l/eaa-quickfix-code-pack** (9, MIT, 30-day refund).
+Copy-paste fixes for the accessibility failures that show up most on real shop websites. This free lite version has the colour-contrast tool and palette plus three of the eleven patterns. The full pack (11 patterns, 4 scripts, 52 automated checks) is here: **https://sonneblomdigitaal.gumroad.com/l/eaa-quickfix-code-pack** (9, MIT, 30-day refund).
 
 In our automated scan of 39 EU shop home pages, 87% had at least one failure and low contrast was on 46% of them ([study](https://hanru269.github.io/eaa-scan/study.html): home pages only, automated checks only, large brands rather than small shops).
 
